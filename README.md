@@ -2,8 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/tristandhoward/tristandhoward.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<a target="_blank" href="https://user-images.githubusercontent.com/38884038/39476897-98825e88-4d2b-11e8-88a9-a98fa7491c3b.JPG">
-  <img width="350">
+<a target="_blank" href="https://user-images.githubusercontent.com/38884038/39476897-98825e88-4d2b-11e8-88a9-a98fa7491c3b.JPG>
   
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
